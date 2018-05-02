@@ -34,7 +34,7 @@ tensorboard --logdir=./output
 
 ## Documentation
 ----------
-You can find this described on my medium post. https://medium.com/@sulabh4
+You can find this described on my medium post(Comming Soon). https://medium.com/@sulabh4
 
 ## Contribute
 ----------
