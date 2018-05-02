@@ -31,6 +31,13 @@ tensorboard --logdir=./output
 ### A link will appear on the command prompt. Copy the link on the browser and the graph will be visualized on the TensorBoard<br />
 ![alt text](https://i.imgur.com/yCDif6M.png)
 
+## Documentation
+----------
+You can find this described on my medium post.
+`
+https://medium.com/@sulabh4
+`
+
 ## Contribute
 ----------
 
