@@ -28,6 +28,9 @@ python Tensor-Board-Graph-Visualization .ipnyb
 tensorboard --logdir=./output
 `
 
+### A link will appear on the command prompt. Copy the link on the browser and the graph will be visualized on the TensorBoard<br />
+![alt text](https://imgur.com/yCDif6M)
+
 ## Contribute
 ----------
 
